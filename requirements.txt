@@ -6,3 +6,4 @@ nltk
 scipy
 ipython-sql
 seaborn
+plotly
