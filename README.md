@@ -1,3 +1,6 @@
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChrifaBahrouni/Google-Plays-Stors-Apps-Data/main?labpath=notebook.ipynb)
 # Google-Plays-Stors-Apps-Data
 ## Data Dictionary
 
