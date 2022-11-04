@@ -7,3 +7,5 @@ scipy
 ipython-sql
 seaborn
 plotly
+seaborn
+cmath
