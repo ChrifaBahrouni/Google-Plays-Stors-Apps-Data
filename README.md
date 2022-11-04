@@ -75,7 +75,7 @@
  *  Popularity of paid apps vs free Apps
  *  Sentiment analysis of user Reviews
   
-
+![](images/11.png)
   ##  Exploring app categories
 <p>With more than 1 billion active users in 190 countries around the world, Google Play continues to be an important distribution platform to build a global audience. For businesses to get their apps in front of users, it's important to make them more quickly and easily discoverable on Google Play. To improve the overall search experience, Google has introduced the concept of grouping apps into categories.</p>
 <p>This brings us to the following questions:</p>
@@ -108,6 +108,7 @@
 <p>We find that the majority of top rated apps (rating over 4) range from 2 MB to 20 MB. We also find that the vast majority of apps price themselves under \$10.</p>
 
 ![](images/6.png) 
+![](images/52.png) 
 
 
    ## Relation between app category and app price
@@ -144,6 +145,7 @@
 
 
 ![](images/10.png)
+
 
 
 
