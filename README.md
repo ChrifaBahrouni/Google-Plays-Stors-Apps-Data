@@ -139,6 +139,12 @@
 
 
 
+## Sentiment analysis of user reviews
+
+
+
+![](images/10.png)
+
 
 
 
